@@ -1,0 +1,20 @@
+{
+  "name": "fullstack-end2end-website",
+  "version": "1.0.0",
+  "description": "This is a full-stack project which is dedicated for a private collaboration &amp; knowledge sharing;  a question-and-answer website for computer programmers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natan",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.6.5",
+    "nodemon": "^3.0.2"
+  }
+}
